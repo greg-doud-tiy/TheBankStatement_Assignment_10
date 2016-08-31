@@ -24,6 +24,8 @@ public class Mainline {
 		d.withdraw(100.00);
 		// 
 		ArrayList<Account> accounts = new ArrayList<Account>();
+		System.out.println("T Act Description                  Bal    Chk  Rate");
+		System.out.println("= === ============================ ====== ===  ====");
 		accounts.add(a);
 		accounts.add(b);
 		accounts.add(c);
